@@ -1,0 +1,5 @@
+name: FreeSlots
+version: 1.0.0
+author: darknesspl
+main: freeslots\FreeSlots
+api: 5.0.0
